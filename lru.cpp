@@ -4,7 +4,7 @@
 
 using namespace std;
 //Node for doubly linked list 
-class Node{
+class Node{  
     public:
     int key,value;
     Node*prev;
