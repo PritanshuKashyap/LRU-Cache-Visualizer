@@ -1,4 +1,4 @@
-let capacity = 0; 
+let capacity = 0;  
 const cache = new Map();
 
 // 🔹 Set Capacity (Initialize Cache)
