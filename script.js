@@ -1,5 +1,5 @@
 let capacity = 0;  
-const cache = new Map();    
+const cache = new Map();     
  
 // 🔹 Set Capacity (Initialize Cache)
 function setCapacity() { 
