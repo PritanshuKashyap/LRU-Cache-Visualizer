@@ -1,6 +1,6 @@
 let capacity = 0;  
 const cache = new Map();   
-
+ 
 // 🔹 Set Capacity (Initialize Cache)
 function setCapacity() { 
     const input = document.getElementById("capacityInput").value;
